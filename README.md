@@ -12,6 +12,7 @@
 
 <p align="center">
   <img src="./ZhengShiji-The%20AI%20Telco%20Troubleshooting%20Challenge.png" alt="Zindi 3rd Place & Gold Medal Certificate - Zheng Shiji" width="800"/>
+  <img src="./Leyuan Liao-The%20AI%20Telco%20Troubleshooting%20Challenge.png" alt="Zindi 3rd Place & Gold Medal Certificate - Zheng Shiji" width="800"/>
 </p>
 
 ---
