@@ -60,3 +60,5 @@ Evaluated on the TeleLogs benchmark dataset against domain State-of-the-Art:
 git clone [https://github.com/](https://github.com/)[Your-Username]/Hybrid-RCA.git
 cd Hybrid-RCA
 pip install -r requirements.txt
+
+code awailable at https://www.modelscope.cn/models/Leyuan123/JJ
