@@ -53,6 +53,12 @@ Evaluated on the TeleLogs benchmark dataset against domain State-of-the-Art:
 | Domain SOTA | Qwen2.5-RCA-32B | 95.86% | 93.23% |
 | **Hybrid-RCA (Ours)** | **Hybrid w/ Qwen2.5-1.5B** | **96.81%** | **96.76%** |
 
+## 🤖 Model Availability
+
+The fine‑tuned Qwen2.5‑1.5B model used in the LLM branch of Hybrid‑RCA is publicly available on ModelScope:
+
+👉 [Hybrid‑RCA Fine‑tuned Model](https://www.modelscope.cn/models/Leyuan123/JJ)
+
 ## 🚀 Quick Start & Reproducibility
 
 **1. Clone the repository and install dependencies:**
@@ -61,4 +67,4 @@ git clone [https://github.com/](https://github.com/)[Your-Username]/Hybrid-RCA.g
 cd Hybrid-RCA
 pip install -r requirements.txt
 
-code awailable at https://www.modelscope.cn/models/Leyuan123/JJ
+
