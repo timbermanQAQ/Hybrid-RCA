@@ -1,0 +1,15 @@
+# 精准忽略大模型和缓存文件夹（保留 autodl-tmp 下的其他训练代码）
+Project/autodl-tmp/Qwen2.5-1.5B-Instruct/
+Project/autodl-tmp/Qwen2.5-7B-Instruct/
+Project/autodl-tmp/model/model_cache/
+Project/autodl-tmp/.Trash-0/
+
+# 忽略 fineTuningLab 下的巨大压缩包
+Project/autodl-tmp/fineTuningLab/**/*.zip
+
+# 全局忽略所有的压缩包（防止再次踩雷）
+*.zip
+
+# 忽略 Python 运行时的缓存文件
+__pycache__/
+*.pyc

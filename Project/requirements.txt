@@ -1,0 +1,8 @@
+torch>=2.1.0
+transformers>=4.37.0
+peft
+accelerate
+bitsandbytes
+pandas
+scikit-learn
+numpy
